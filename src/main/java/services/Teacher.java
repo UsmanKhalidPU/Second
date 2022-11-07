@@ -8,6 +8,8 @@ public class Teacher {
         Scanner s = new Scanner(System.in);
         String number = s.nextLine();
 
+
+
         System.out.println("Teacher name is : " + number );
     }
 }
